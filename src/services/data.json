@@ -1,0 +1,290 @@
+[
+  {
+    "Transaction Date": "08/15/2019",
+    "Post Date": "08/16/2019",
+    "Description": "HOT TIX",
+    "Category": "Gifts & Donations",
+    "Type": "Sale",
+    "Amount": "-48.50"
+  },
+  {
+    "Transaction Date": "08/14/2019",
+    "Post Date": "08/14/2019",
+    "Description": "BEST TACO &amp; BURRITO",
+    "Category": "Food & Drink",
+    "Type": "Sale",
+    "Amount": "-7.44"
+  },
+  {
+    "Transaction Date": "08/13/2019",
+    "Post Date": "08/13/2019",
+    "Description": "Payment Thank You-Mobile",
+    "Category": "",
+    "Type": "Payment",
+    "Amount": "339.63"
+  },
+  {
+    "Transaction Date": "08/11/2019",
+    "Post Date": "08/13/2019",
+    "Description": "EMERALD CITY COFFEE",
+    "Category": "Food & Drink",
+    "Type": "Sale",
+    "Amount": "-4.70"
+  },
+  {
+    "Transaction Date": "08/11/2019",
+    "Post Date": "08/12/2019",
+    "Description": "METRA MOBILE",
+    "Category": "Travel",
+    "Type": "Sale",
+    "Amount": "-10.00"
+  },
+  {
+    "Transaction Date": "08/10/2019",
+    "Post Date": "08/12/2019",
+    "Description": "EMERALD CITY COFFEE",
+    "Category": "Food & Drink",
+    "Type": "Sale",
+    "Amount": "-4.48"
+  },
+  {
+    "Transaction Date": "08/11/2019",
+    "Post Date": "08/11/2019",
+    "Description": "AMZN Mktp US*MA5WU5WB2",
+    "Category": "Shopping",
+    "Type": "Sale",
+    "Amount": "-32.40"
+  },
+  {
+    "Transaction Date": "08/07/2019",
+    "Post Date": "08/09/2019",
+    "Description": "WINDY CITY GYROS",
+    "Category": "Food & Drink",
+    "Type": "Sale",
+    "Amount": "-23.76"
+  },
+  {
+    "Transaction Date": "08/07/2019",
+    "Post Date": "08/08/2019",
+    "Description": "BLENDER FOUNDATION",
+    "Category": "Gifts & Donations",
+    "Type": "Sale",
+    "Amount": "-6.00"
+  },
+  {
+    "Transaction Date": "08/06/2019",
+    "Post Date": "08/07/2019",
+    "Description": "WHOLEFDS HAL 10203",
+    "Category": "Groceries",
+    "Type": "Sale",
+    "Amount": "-7.14"
+  },
+  {
+    "Transaction Date": "08/06/2019",
+    "Post Date": "08/07/2019",
+    "Description": "CVS/PHARMACY #08735",
+    "Category": "Health & Wellness",
+    "Type": "Sale",
+    "Amount": "-3.56"
+  },
+  {
+    "Transaction Date": "08/04/2019",
+    "Post Date": "08/06/2019",
+    "Description": "EMERALD CITY COFFEE",
+    "Category": "Food & Drink",
+    "Type": "Sale",
+    "Amount": "-3.65"
+  },
+  {
+    "Transaction Date": "08/03/2019",
+    "Post Date": "08/05/2019",
+    "Description": "THE HOME DEPOT 1976",
+    "Category": "Home",
+    "Type": "Sale",
+    "Amount": "-7.21"
+  },
+  {
+    "Transaction Date": "08/03/2019",
+    "Post Date": "08/05/2019",
+    "Description": "SHERIDAN IRVING L LIQUOR",
+    "Category": "Food & Drink",
+    "Type": "Sale",
+    "Amount": "-11.97"
+  },
+  {
+    "Transaction Date": "08/03/2019",
+    "Post Date": "08/04/2019",
+    "Description": "MARSHALLS #0646",
+    "Category": "Shopping",
+    "Type": "Sale",
+    "Amount": "-36.43"
+  },
+  {
+    "Transaction Date": "08/01/2019",
+    "Post Date": "08/04/2019",
+    "Description": "WHOLEFDS HAL 10203",
+    "Category": "Groceries",
+    "Type": "Sale",
+    "Amount": "-23.59"
+  },
+  {
+    "Transaction Date": "08/01/2019",
+    "Post Date": "08/02/2019",
+    "Description": "CKO*Patreon* Membership",
+    "Category": "Entertainment",
+    "Type": "Sale",
+    "Amount": "-19.00"
+  },
+  {
+    "Transaction Date": "08/01/2019",
+    "Post Date": "08/02/2019",
+    "Description": "HUMANA HEALTH PLAN INC",
+    "Category": "Bills & Utilities",
+    "Type": "Sale",
+    "Amount": "-28.08"
+  },
+  {
+    "Transaction Date": "07/31/2019",
+    "Post Date": "08/02/2019",
+    "Description": "PALADAR",
+    "Category": "Food & Drink",
+    "Type": "Sale",
+    "Amount": "-122.36"
+  },
+  {
+    "Transaction Date": "07/31/2019",
+    "Post Date": "07/31/2019",
+    "Description": "Payment Thank You-Mobile",
+    "Category": "",
+    "Type": "Payment",
+    "Amount": "250.73"
+  },
+  {
+    "Transaction Date": "07/27/2019",
+    "Post Date": "07/29/2019",
+    "Description": "MICHAEL S PIZZERIA",
+    "Category": "Food & Drink",
+    "Type": "Sale",
+    "Amount": "-64.77"
+  },
+  {
+    "Transaction Date": "07/28/2019",
+    "Post Date": "07/29/2019",
+    "Description": "WHOLEFDS HAL 10203",
+    "Category": "Groceries",
+    "Type": "Sale",
+    "Amount": "-26.94"
+  },
+  {
+    "Transaction Date": "07/28/2019",
+    "Post Date": "07/29/2019",
+    "Description": "Kindle Svcs*MA3QK9OB0",
+    "Category": "Shopping",
+    "Type": "Sale",
+    "Amount": "-5.41"
+  },
+  {
+    "Transaction Date": "07/25/2019",
+    "Post Date": "07/28/2019",
+    "Description": "Tango Sur",
+    "Category": "Food & Drink",
+    "Type": "Sale",
+    "Amount": "-75.84"
+  },
+  {
+    "Transaction Date": "07/28/2019",
+    "Post Date": "07/28/2019",
+    "Description": "Amazon.com*MA8802CY0",
+    "Category": "Shopping",
+    "Type": "Sale",
+    "Amount": "-12.58"
+  },
+  {
+    "Transaction Date": "07/28/2019",
+    "Post Date": "07/28/2019",
+    "Description": "AMZN Mktp US*MA7879C00",
+    "Category": "Shopping",
+    "Type": "Sale",
+    "Amount": "-29.31"
+  },
+  {
+    "Transaction Date": "07/25/2019",
+    "Post Date": "07/28/2019",
+    "Description": "DAIRY QUEEN",
+    "Category": "Food & Drink",
+    "Type": "Sale",
+    "Amount": "-6.59"
+  },
+  {
+    "Transaction Date": "07/25/2019",
+    "Post Date": "07/25/2019",
+    "Description": "Payment Thank You-Mobile",
+    "Category": "",
+    "Type": "Payment",
+    "Amount": "543.91"
+  },
+  {
+    "Transaction Date": "07/24/2019",
+    "Post Date": "07/25/2019",
+    "Description": "NORTH BUENA MARKET",
+    "Category": "Food & Drink",
+    "Type": "Sale",
+    "Amount": "-29.29"
+  },
+  {
+    "Transaction Date": "07/22/2019",
+    "Post Date": "07/24/2019",
+    "Description": "ALDI 40003",
+    "Category": "Groceries",
+    "Type": "Sale",
+    "Amount": "-42.71"
+  },
+  {
+    "Transaction Date": "07/22/2019",
+    "Post Date": "07/23/2019",
+    "Description": "TACO &amp; BURRITO HOUSE UNO",
+    "Category": "Food & Drink",
+    "Type": "Sale",
+    "Amount": "-14.70"
+  },
+  {
+    "Transaction Date": "07/22/2019",
+    "Post Date": "07/23/2019",
+    "Description": "CVS/PHARMACY #08735",
+    "Category": "Health & Wellness",
+    "Type": "Sale",
+    "Amount": "-3.62"
+  },
+  {
+    "Transaction Date": "07/20/2019",
+    "Post Date": "07/22/2019",
+    "Description": "WALGREENS #15004",
+    "Category": "Health & Wellness",
+    "Type": "Sale",
+    "Amount": "-3.85"
+  },
+  {
+    "Transaction Date": "07/20/2019",
+    "Post Date": "07/22/2019",
+    "Description": "EMERALD CITY COFFEE",
+    "Category": "Food & Drink",
+    "Type": "Sale",
+    "Amount": "-4.48"
+  },
+  {
+    "Transaction Date": "07/20/2019",
+    "Post Date": "07/21/2019",
+    "Description": "TST* BIXI BREWERY",
+    "Category": "Food & Drink",
+    "Type": "Sale",
+    "Amount": "-345.82"
+  },
+  {
+    "Transaction Date": "07/16/2019",
+    "Post Date": "07/17/2019",
+    "Description": "LYFT   *RIDE TUE 2PM",
+    "Category": "Travel",
+    "Type": "Sale",
+    "Amount": "-14.84"
+  }
+]

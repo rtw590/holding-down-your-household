@@ -3,6 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "scripts": {
+    "import": "node ./src/services/ImportService",
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
     "electron:build": "vue-cli-service electron:build",
@@ -13,6 +14,9 @@
   "main": "background.js",
   "dependencies": {
     "core-js": "^2.6.5",
+    "csvtojson": "^2.0.10",
+    "sequelize": "^5.15.0",
+    "sqlite3": "^4.1.0",
     "vue": "^2.6.10",
     "vue-router": "^3.0.3",
     "vuetify": "^2.0.0",
