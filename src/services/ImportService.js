@@ -2,31 +2,28 @@ const CSVToJSON = require("csvtojson");
 
 const fs = require("fs");
 
-const { Entry } = require("../models");
+// const storage = require("electron-json-storage");
 
 CSVToJSON()
-  // TODO: Update to put the user submitted URL as a parameter that is being passed in
-  .fromFile("./src/services/statement.csv")
+  // .fromFile("./src/services/statement.csv")
+  .fromFile("./statement.csv")
   .then(source => {
     var data = JSON.stringify(source, null, 2);
-    fs.writeFile("./src/services/data.json", data, finished);
+    fs.writeFile(
+      "/home/rob/.config/holding-down-your-household/storage/holding-down-data.json",
+      data,
+      finished
+    );
     function finished(err) {
       console.log(err);
     }
   });
 
-// TODO: Reowrk this to save to sqlite databse
+// const dataPath = storage.getDataPath();
+// console.log(dataPath);
 
-const data = require("./data.json");
+// storage.get("holding-down-data", function(error, data) {
+//   if (error) throw error;
 
-let newJSON = [];
-
-data.forEach(item => {
-  let currentItem = {};
-  currentItem.properties = {};
-  currentItem.coords = { lat: item.Latitude, lng: item.Longitude };
-  currentItem.content = `<p>${item.Full_Address}</p>`;
-  currentItem.visible = true;
-
-  newJSON.push(currentItem);
-});
+//   console.log(data);
+// });
